@@ -1,31 +1,7 @@
 {
   "titulo": "Contrato de utilizacao do aplicativo InTransit",
   "data": "2023-04-09",
-  "partes": {
-    "instituicao_ensino": {
-      "nome": "Nome da instituicao de ensino",
-      "codigo": "123456",
-      "responsavel": {
-        "nome": "Nome completo do responsavel",
-        "cpf": "123.456.789-10"
-      },
-      "endereco": {
-        "cep": "12345-678",
-        "logradouro": "Nome da rua e numero",
-        "complemento": "Complemento",
-        "cidade": "Nome da cidade",
-        "estado": "Sigla do estado"
-      },
-      "motoristas_vinculados": [
-        {
-          "nome": "Nome completo do motorista",
-          "cpf": "123.456.789-10",
-		      "carro": "modelo, placa e ano"
-        }
-      ]
-    }
-  },
-  "usuarios": [
+  "usuarios": 
     {
       "tipo": "estudante",
       "nome": "Nome completo do estudante",
@@ -38,10 +14,8 @@
         "logradouro": "Nome da rua e número",
         "complemento": "Complemento",
         "cidade": "Nome da cidade",
-        "estado": "Sigla do estado"
-      },
-      "instituicao_ensino": "Nome da instituição de ensino",
-      "senha": "senha123"
+        "estado": "Sigla do estado",
+        "codigo_de_rota": "rota xxx"
     }
     
   ],
