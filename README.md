@@ -2,7 +2,6 @@
 <head>
     <h1>Projeto-Intransit-de-Back-Mobile</h1>
     <h2>Tema:Figma, Modelagens UML e Pacote Json </h2>
-    <h4>O Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomover da instituição para sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possa manter contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que levam as universidades terem bastante evasão é o difícil acesso e locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</h4>
 </head>
 <body>
     <p>Projeto desenvolvido para aplicação mobile, onde tivemos  contato com varias ferramentas para 
@@ -38,8 +37,7 @@
   <p>Fonte nome do perfil: Inter, boid, 24, fixed size, centralizado e align middle</p>
   
   <h2>Cores</h2>
-    <p>cor: FA8553, 2722F3, 000000, FFFBFB </p>
-
+    <img> ![int3](https://user-images.githubusercontent.com/113267971/231018662-8ac36403-9918-4ca4-9b30-41d5e0f044a6.png)</img>
    <h2>Diagrama</h2>
 
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27](https://user-images.githubusercontent.com/111431438/230778319-2a177a41-a2bf-4ebd-80be-5fcfda2d4c6c.jpg)
