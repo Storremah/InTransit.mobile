@@ -27,6 +27,8 @@
         </ul>
 
   <p>No périodo anterior fizemos o uso do Figma para modelagem de disign em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual do aplicativo desenvolvido nesse projeto.</p>
+    
+  <h2>Projeto Figma</h2>
   
   <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
   
