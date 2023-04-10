@@ -19,6 +19,7 @@
         <ul>
             <li>Papel oficio</li>
             <li>Figma</li>
+            <li>VsCode</li>
             <li>Intellij</li>
             <li>Android Studio</li>
         </ul>
