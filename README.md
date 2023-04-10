@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <h1>Projeto-Intransit-de-Back-Mobile</h1>
-    <h2>Tema:Figma, Modelgaens UML e Pacote Json </h2>
+    <h2>Tema:Figma, Modelagens UML e Pacote Json </h2>
 </head>
 <body>
     <p>Projeto desenvolvido para aplicação mobile, onde tivemos  contato com varias ferramentas para 
@@ -30,7 +30,7 @@
   
   <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
   
-  <h2>Fostes</h2>
+  <h2>Fontes</h2>
   <p>Fonte: Inter, boid, 12, fixed size, centralizado e align middle</p>
   <p>Fonte nome do perfil: Inter, boid, 24, fixed size, centralizado e align middle</p>
   
