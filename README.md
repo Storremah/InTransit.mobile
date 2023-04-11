@@ -30,16 +30,16 @@
 <h3>Requisitos da instituição</h3>
   <h4> Realizar cadastro da instituição</h4>
   <p> Na tela de cadastro, a instituição colocará seus dados e um responsavel para cuidar da tela instituição.</p>
-  <h3> Realizar login da instituição</h3>
+  <h4> Realizar login da instituição</h4>
   <p> Na tela de login, a instituição tera como seu user o cnpj e sua senha será criada pelo diretor ou responsavel da instituição.</p>
-  <h3> Habilitar rotas</h3>
+  <h4> Habilitar rotas</h4>
   <p> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiencia e rapidez no embarque e desenbaruqe dos alunos na instituição.</p>
 <h3>Requisitos do aluno</h3>
   <h4> Realizar cadastro do aluno</h4>
   <p> Na tela de cadastro, o aluno que faz parte de um instituição de ensino se cadastra nesse aplicativo, onde ele pode ver os motoristas que fazem rotas na sua localidade para leva-lo ate a instituição.</p>
   <h4> Realizar login do aluno </h4>
   <p> Na tela de login o aluno ira efetuar seu login atraves de user e senha(gerada pela instituição), para acessar o corpo do aplicativo, e usufruir do mesmo.</p>
-  <h3> Identificar localização do aluno</h3>
+  <h4> Identificar localização do aluno</h4>
   <p> Na tela de localidade, ira mostrar a localização exata do aluno por meio do seu endereço. E nisso o motorista com a rota nessa área irá busca-lo, sem atrapalhar sua rota.</p>
 <h3>Requisitos do motorista</h3>
   <h4> Realizar cadastro do motorista</h4>
