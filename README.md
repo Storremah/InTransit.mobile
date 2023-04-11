@@ -74,7 +74,7 @@
   
   <h2>Imagens das telas do cadastro do motorista </h2>
   
-  <img> ![int7](https://user-images.githubusercontent.com/113267971/231286686-9c0ccd17-9494-4c74-9b8f-e74881cfd860.jpg)</img>
+  <img> ![int6](https://user-images.githubusercontent.com/113267971/231287336-23b68197-1262-436a-8a2a-cdc0f6065bdc.jpg) </img>
 
   
   <h2>Fontes</h2>
