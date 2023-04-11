@@ -86,5 +86,10 @@
 
 <img>![uml projeto](https://user-images.githubusercontent.com/111474763/231048215-711a17e4-b784-4736-bc1c-8f23ce63a091.png)</img>
 
+<h1>JSON</h1>
+
+<img>![int5](https://user-images.githubusercontent.com/113267971/231237905-8c4a49fc-8992-4d5d-b046-26b28f3ef4ae.png)</img>
+
+
 </body>
 </html>
