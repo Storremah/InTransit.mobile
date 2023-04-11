@@ -51,7 +51,7 @@
   <h3> Desabilitar ativação do motorista</h3>
   <p> Na tela do motorista haverá um botão com a funcionalidade de sinalizar a desativação de sua rota no momento em que o condutor encerrar o seu serviço. A partir     disto a sua rota é desligada automaticamente.</p>
     
-  <h2>Projeto Figma</h2>
+  <h1>Projeto Figma</h1>
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
   <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)
