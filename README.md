@@ -2,16 +2,16 @@
 <head>
     <h1>Projeto-Intransit-de-Back-Mobile</h1>
     <h2>Tema: Figma, Modelagens UML e Pacote Json </h2>
-    <p>O Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomoverem da instituição de Ensino que estudam para a sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possibilita que ele mantenha contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que resultam altas taxas de evasão nas universidades é o difícil acesso e a precária locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
+    <p>O Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomoverem da instituição de ensino que estudam, para a sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possibilita que ele mantenha contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que resultam altas taxas de evasão nas universidades é o difícil acesso e a precária locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
 </head>
 <body>
     <p>Este projeto foi desenvolvido para aplicação mobile, onde tivemos contato com várias ferramentas para 
-        construção do projeto como o Figma, Diagrams.net, Intellij e Android Studio.</p>
+        construção do projeto como: Figma, Diagrams.net, Intellij, Notepad++, VSCode e Android Studio.</p>
         
  <h1>Membros</h1>
  <ul>
        <li><strong>Gustavo dos Santos Oliveira</strong> - Matrícula: 01538489</strong></li>
-       <li><strong>HagassiHagassi Abrahão Gomes dos Santos</strong> - Matrícula: 01560411</strong></li>
+       <li><strong>Hagassi Abrahão Gomes dos Santos</strong> - Matrícula: 01560411</strong></li>
        <li><strong>José Augusto de Oliveira Abreu</strong> - Matrícula: 01558864</strong></li>
        <li><strong>Maria Conceição Torres da Silva Alves</strong> - Matrícula: 01145991</strong></li>
        <li><strong>Willams Ramos da Silva</strong> - Matrícula: 01353101</strong></li>
@@ -31,8 +31,9 @@
         <ul>
             <li>Papel oficio</li>
             <li>Figma</li>
-            <li>VsCode</li>
             <li>Intellij</li>
+            <li>VsCode</li>
+            <li>Notepad++</li>
             <li>Draw.io</li>
             <li>Android Studio</li>
         </ul>
