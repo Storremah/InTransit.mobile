@@ -71,7 +71,8 @@
 
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27](https://user-images.githubusercontent.com/111431438/230778319-2a177a41-a2bf-4ebd-80be-5fcfda2d4c6c.jpg)
 </img>
-<p><img>![uml projeto](https://user-images.githubusercontent.com/111474763/231048215-711a17e4-b784-4736-bc1c-8f23ce63a091.png)</img></p>
+
+<img>![uml projeto](https://user-images.githubusercontent.com/111474763/231048215-711a17e4-b784-4736-bc1c-8f23ce63a091.png)</img>
 
 </body>
 </html>
