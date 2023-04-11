@@ -30,14 +30,19 @@
     
   <h2>Projeto Figma</h2>
   
-  <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
+  <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)
+  </img>
   
   <h2>Fontes</h2>
-  <p>Fonte: Inter, boid, 12, fixed size, centralizado e align middle</p>
-  <p>Fonte nome do perfil: Inter, boid, 24, fixed size, centralizado e align middle</p>
   
+ <img>![Imagem do WhatsApp de 2023-04-10 à(s) 20 48 09](https://user-images.githubusercontent.com/111431438/231023353-889b8200-1207-496f-a2c0-54fd5665166e.jpg)
+</img>
+
   <h2>Cores</h2>
-    <img> ![int3](https://user-images.githubusercontent.com/113267971/231018662-8ac36403-9918-4ca4-9b30-41d5e0f044a6.png)</img>
+  
+  <img>![int3](https://user-images.githubusercontent.com/113267971/231018662-8ac36403-9918-4ca4-9b30-41d5e0f044a6.png)
+  </img>
+    
    <h2>Diagrama</h2>
 
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27](https://user-images.githubusercontent.com/111431438/230778319-2a177a41-a2bf-4ebd-80be-5fcfda2d4c6c.jpg)
