@@ -69,13 +69,9 @@
   
   <h2>Imagens das telas de cadastro e navegação do aluno</h2>
   
-  <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)
-  </img>
-  
-  <h2>Imagens das telas do cadastro do motorista </h2>
-  
-  <img> ![int6](https://user-images.githubusercontent.com/113267971/231287336-23b68197-1262-436a-8a2a-cdc0f6065bdc.jpg) </img>
-
+  <img> ![completo](https://user-images.githubusercontent.com/113267971/232250387-5e9e7228-7c7e-4126-a52f-404cf767b067.png)
+ </img>
+ 
   
   <h2>Fontes</h2>
   
