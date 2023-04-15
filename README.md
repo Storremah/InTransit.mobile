@@ -80,8 +80,7 @@
 
   <h2>Cores</h2>
   
-  <img>![int3](https://user-images.githubusercontent.com/113267971/231018662-8ac36403-9918-4ca4-9b30-41d5e0f044a6.png)
-  </img>
+  <img>![cores](https://user-images.githubusercontent.com/113267971/232250497-fa396608-3f39-45b8-8d77-e8a9085ebb79.png)</img>
     
    <h2>Diagrama-UML</h2>
 
