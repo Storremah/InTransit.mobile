@@ -69,7 +69,7 @@
   
   <h2>Imagens das telas de cadastro e navegação do aluno</h2>
   
-  <img> </img>
+  <img>![completo](https://user-images.githubusercontent.com/113267971/232251556-3ee6dca7-538d-489e-9aea-869fef845109.png)</img>
  
   
   <h2>Fontes</h2>
