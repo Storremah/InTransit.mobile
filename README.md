@@ -68,13 +68,12 @@
    <img>![tela5](https://user-images.githubusercontent.com/113267971/232327931-a987bb42-a26e-4fe6-a82c-048e0fca852c.PNG) </img>
     
   <h2> Localização em tempo real </h2>
-  <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos.</p>
-    
-    <img>![tela6](https://user-images.githubusercontent.com/113267971/232327957-d0a9931c-af49-4a64-86ec-5329da977d90.PNG)</img>
+  <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos. </p>
+    <img>![tela6](https://user-images.githubusercontent.com/113267971/232332514-a4862095-f44e-439f-bfc9-df9828544fb5.PNG)
+</img>
     
   <h2> Histórico de viagens </h2>
-  Este serviço cataloga todas as viagens da rota feita pelo estudante. Ele conta com informações da data e horário em que embarcaram a caminho da instituição ou para a sua casa.
-  
+  <p>Este serviço cataloga todas as viagens da rota feita pelo estudante. Ele conta com informações da data e horário em que embarcaram a caminho da instituição ou para a sua casa.</p>
     <img>![tela7](https://user-images.githubusercontent.com/113267971/232327982-fea23141-d6a5-4a36-8a67-c8491557ec43.PNG)</img>
     
   <h2> Chat da rota </h2>
