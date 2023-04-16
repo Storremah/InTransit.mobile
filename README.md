@@ -212,27 +212,27 @@ Endpoint: _/cadastro_
 
 **Parâmetros**
 
-nome: string contendo o nome completo do usuário
+**nome:** string contendo o nome completo do usuário
 
-matricula: string contendo a matrícula do usuário
+**matricula:** string contendo a matrícula do usuário
 
-rg: string contendo o RG do usuário
+**rg:** string contendo o RG do usuário
 
-telefone: string contendo o número de telefone do usuário
+**telefone:** string contendo o número de telefone do usuário
 
-cep: string contendo o CEP do usuário
+**cep:** string contendo o CEP do usuário
 
-logradouro: string contendo o endereço do usuário
+**logradouro:** string contendo o endereço do usuário
 
-complemento: string contendo o complemento do endereço do usuário
+**complemento:** string contendo o complemento do endereço do usuário
 
-instituicao: string contendo o nome da instituição de ensino do usuário
+**instituicao:** string contendo o nome da instituição de ensino do usuário
 
-codigo_rota:string contendo o código da rota do usuário
+**codigo_rota:** string contendo o código da rota do usuário
 
-senha: string contendo a senha do usuário
+**senha:** string contendo a senha do usuário
 
-confirmar_senha: string contendo a confirmação da senha do usuário
+**confirmar_senha:** string contendo a confirmação da senha do usuário
 
 ![image](https://user-images.githubusercontent.com/111620570/232330142-3e758fd6-8573-40ec-a5e7-5c068de1b9a6.png)
 
