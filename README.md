@@ -55,7 +55,7 @@
   <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
     <img>  </img>
     
-  <h3> Tela principal </h3>
+  <li><h3> Tela principal </h3></li>
   <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
     
     
