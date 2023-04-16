@@ -94,7 +94,21 @@
 
 <h1>JSON</h1>
 
-<img>![Print JSON](https://user-images.githubusercontent.com/113267971/231304507-d7d0509c-ac00-47f7-9dfa-8163fccb01c7.png)</img>
+<h2>Funcionalidade: Login</h2>
+Requisição:
+Método: ```POST```
+Endpoint: _/login_
+
+**Parâmetros**
+
+username: string contendo o nome de usuário ou matrícula
+password: string contendo a senha do usuário
+
+![image](https://user-images.githubusercontent.com/111620570/232329031-58864106-42e6-4b1c-aa00-718adee112fe.png)
+
+**Resposta**
+
+```status code:```  200 ```OK```
 
 
 </body>
