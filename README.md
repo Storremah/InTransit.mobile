@@ -153,6 +153,97 @@ token: string contendo o token de autenticação do usuário
 ![image](https://user-images.githubusercontent.com/111620570/232329734-6fc42a67-7f94-457e-b800-f8144c20e019.png)
 
 <h2>Funcionalidade: Check-in Desembarque</h2>
+Requisição:
+
+Método: ```POST```
+
+Endpoint: _/desembarque_
+
+**Parâmetros**
+
+token: string contendo o token de autenticação do usuário
+
+**Resposta**
+
+```status code``` 200 ```OK```
+
+![image](https://user-images.githubusercontent.com/111620570/232329870-0d872b9b-b26f-4ef9-88a1-a1effb3f68fc.png)
+
+<h2>Funcionalidade: Histórico de Viagens</h2>
+Requisição:
+
+Método: ```GET```
+
+Endpoint: _/historico_
+
+**Parâmetros**
+
+token: string contendo o token de autenticação do usuário
+
+**Resposta**
+
+```status code``` 200 ```OK```
+
+![image](https://user-images.githubusercontent.com/111620570/232329985-7c73122e-2bb8-4c50-9ef2-d717117b4d55.png)
+
+<h2>Funcionalidade: Chat da Rota</h2>
+Requisição:
+
+Método: ```GET```
+
+Endpoint: _/chat_
+
+**Parâmetros**
+
+token: string contendo o token de autenticação do usuário
+
+**Resposta**
+
+```status code``` 200 ```OK```
+
+![image](https://user-images.githubusercontent.com/111620570/232330083-111eeeaf-829f-467a-9586-9c2957fd1228.png)
+
+<h2>Funcionalidade: Cadastro</h2>
+Requisição:
+
+Método: ```POST```
+
+Endpoint: _/cadastro_
+
+**Parâmetros**
+
+nome: string contendo o nome completo do usuário
+matricula: string contendo a matrícula do usuário
+rg: string contendo o RG do usuário
+telefone: string contendo o número de telefone do usuário
+cep: string contendo o CEP do usuário
+logradouro: string contendo o endereço do usuário
+complemento: string contendo o complemento do endereço do usuário
+instituicao: string contendo o nome da instituição de ensino do usuário
+codigo_rota:string contendo o código da rota do usuário
+senha: string contendo a senha do usuário
+confirmar_senha: string contendo a confirmação da senha do usuário
+
+![image](https://user-images.githubusercontent.com/111620570/232330142-3e758fd6-8573-40ec-a5e7-5c068de1b9a6.png)
+
+**Resposta**
+
+200 ```OK``` : retorno bem-sucedido, retorna uma mensagem de sucesso
+
+![image](https://user-images.githubusercontent.com/111620570/232330211-0b9f0608-5eee-47d4-b693-63554de467df.png)
+
+
+400 ```Bad Request``` : erro nos parâmetros enviados
+
+![image](https://user-images.githubusercontent.com/111620570/232330220-70b79bb2-436c-4894-9c60-2b58934b8f34.png)
+
+
+401 ```Unauthorized```: usuário não autorizado
+
+![image](https://user-images.githubusercontent.com/111620570/232330222-05ee60f6-b1c5-4c70-942b-95aea77cad39.png)
+
+
+
 
 </body>
 </html>
