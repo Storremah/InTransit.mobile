@@ -43,20 +43,22 @@
  
   <h1>Projeto Figma</h1>
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
+  
 <ul> 
-<li><h3> Tela inicial </h3></li>
+    <li><h3> Tela inicial </h3></li>
     
-    <img> ![tela1](https://user-images.githubusercontent.com/113267971/232327120-602f1512-8120-46cd-b805-5a877dc6be97.PNG) </img>
+    <img> ![tela1](https://user-images.githubusercontent.com/113267971/232327552-5dc4c592-c6b4-4305-9484-e450d452d3d7.PNG)</img>
+    
     
 <li><h3> Realizar cadastro do aluno</h3></li>
   <p> Na tela de primeiro acesso, o estudante que faz parte de um instituição de ensino superior realiza o seu cadastro no aplicativo. Para isto, ele só precisa apertar no botão de cadastro. Ao clicar no botão de cadastro ele é direcionado para a tela de preenchimendo de informações do usuário, porém o cadastro só é concluído quando o código correto da rota do qual ele faz parte é adicionado. Se todas as informações forem preenchidas corretamente o cadastro é validado e o seu vinculo ao motoristas que faz a sua rota é efetivado.</p>
   
-  <img>  ![tela2](https://user-images.githubusercontent.com/113267971/232327143-672e9a4c-35e5-45fc-8711-83c56b07b0f6.PNG)</img>
+  <img> ![tela2e3](https://user-images.githubusercontent.com/113267971/232327464-537042a4-0d1c-4731-a349-1cba372742f9.PNG)</img>
   
   <li><h3> Login no aplicativo </h3></li>
   <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
   
-    <img>![tela3](https://user-images.githubusercontent.com/113267971/232327160-d7b05658-21ff-4282-81e9-ffca32eb5171.PNG)</img>
+    <img> ![tela4](https://user-images.githubusercontent.com/113267971/232327194-5c43b3f6-a5d3-42b7-9c7c-07f737b53c53.PNG) </img>
     
   <li><h3> Tela principal </h3></li>
   <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
