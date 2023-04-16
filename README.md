@@ -56,7 +56,8 @@
     <img>  </img>
     
     <li><h3> Tela principal </h3></li>
-   Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo.
+  <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
+    
     <img>  </img>
     
   <li><h3> Localização em tempo real </h3></li>
