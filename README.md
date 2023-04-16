@@ -46,8 +46,7 @@
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
 <p><h2> Tela inicial </h2></p>
-   <img> ![tela1](https://user-images.githubusercontent.com/113267971/232332414-5806b77b-9f83-4898-bcee-7d68e2028124.PNG)
-</img>
+ <img> ![tela1](https://user-images.githubusercontent.com/113267971/232332414-5806b77b-9f83-4898-bcee-7d68e2028124.PNG)</img>
 
     
     
@@ -69,12 +68,14 @@
     
   <h2> Localização em tempo real </h2>
   <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos. </p>
-    <img>![tela6](https://user-images.githubusercontent.com/113267971/232332514-a4862095-f44e-439f-bfc9-df9828544fb5.PNG)
+    
+   <img>![tela6](https://user-images.githubusercontent.com/113267971/232332514-a4862095-f44e-439f-bfc9-df9828544fb5.PNG)
 </img>
     
   <h2> Histórico de viagens </h2>
   <p>Este serviço cataloga todas as viagens da rota feita pelo estudante. Ele conta com informações da data e horário em que embarcaram a caminho da instituição ou para a sua casa.</p>
-    <img>![tela7](https://user-images.githubusercontent.com/113267971/232327982-fea23141-d6a5-4a36-8a67-c8491557ec43.PNG)</img>
+  
+   <img>![tela7](https://user-images.githubusercontent.com/113267971/232327982-fea23141-d6a5-4a36-8a67-c8491557ec43.PNG)</img>
     
   <h2> Chat da rota </h2>
  Este serviço tem o objetivo de permitir a comunicação entre membros da mesma rota, desta maneira, dúvidas podem ser tiradas, comunicados e alertas podem ser feitos.
