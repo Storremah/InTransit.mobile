@@ -46,7 +46,7 @@
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
 <p><h2> Tela inicial </h2></p>
-   <img> ![tela1](https://user-images.githubusercontent.com/113267971/232332272-9b693107-c969-4871-bc3a-092ad3b7eb66.PNG) </img>
+   <img> (https://user-images.githubusercontent.com/113267971/232332272-9b693107-c969-4871-bc3a-092ad3b7eb66.PNG) </img>
 
     
     
