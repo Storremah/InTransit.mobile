@@ -76,7 +76,7 @@
   <h2> Chat da rota </h2>
  Este serviço tem o objetivo de permitir a comunicação entre membros da mesma rota, desta maneira, dúvidas podem ser tiradas, comunicados e alertas podem ser feitos.
    
-   <img> ![tela8](https://user-images.githubusercontent.com/113267971/232327321-1f6e32b1-51fd-43b4-aa10-39237c8b2ded.PNG) </img>
+   <img> ![tela8](https://user-images.githubusercontent.com/113267971/232331954-c4ea9875-75ce-4c3a-80a7-0a635502023c.PNG) </img>
   
   
   <h2>Fontes</h2>
