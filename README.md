@@ -39,26 +39,40 @@
         </ul>
         
 <h2>Relação de Caso de Uso</h2>
-<h3>Aluno/Usuário</h3>
-<ul>
-  <li><h4> Realizar cadastro do aluno</h4></li>
-  <p> Na tela de cadastro, o estudante que faz parte de um instituição de ensino realiza o seu cadastro no aplicativo, desta forma ele estará vinculado ao motoristas que faz  a sua rota e o levará ate a instituição, bem como o trará de volta para casa.</p>
-  <li><h4> Realizar login do aluno </h4></li>
-  <p> Na tela de login o estudante ira efetuar o seu login, para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
-  <li><h4> Localização em tempo real </h4></li>
-  <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos.</p>
-  <li><h4> Histórico de viagens </h4></li>
-  
-  <li><h4> Chat da rota </h4></li>
-    
- </ul>   
+
+ 
   <h1>Projeto Figma</h1>
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
+<lu> 
+<li><h3> Tela inicial </h3></li>
+    <img>  </img>
+    
+<li><h3> Realizar cadastro do aluno</h3></li>
+  <p> Na tela de primeiro acesso, o estudante que faz parte de um instituição de ensino superior realiza o seu cadastro no aplicativo. Para isto, ele só precisa apertar no botão de cadastro. Ao clicar no botão de cadastro ele é direcionado para a tela de preenchimendo de informações do usuário, porém o cadastro só é concluído quando o código correto da rota do qual ele faz parte é adicionado. Se todas as informações forem preenchidas corretamente o cadastro é validado e o seu vinculo ao motoristas que faz a sua rota é efetivado.</p>
+  <img>  </img>
   
-  <h2>Imagens das telas de cadastro e navegação do aluno</h2>
+  <li><h3> Login no aplicativo </h3></li>
+  <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
+    <img>  </img>
+    
+    <li><h3> Tela principal </h3></li>
+    <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo.</p>
+    <img>  </img>
+    
+  <li><h3> Localização em tempo real </h3></li>
+  <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos.</p>
+    <img>  </img>
+    
+  <li><h3> Histórico de viagens </h3></li>
+  Este serviço cataloga todas as viagens da rota feita pelo estudante. Ele conta com informações da data e horário em que embarcaram a caminho da instituição ou para a sua casa.
+    <img>  </img>
+    
+  <li><h3> Chat da rota </h3></li>
+ Este serviço tem o objetivo de permitir a comunicação entre membros da mesma rota, desta maneira, dúvidas podem ser tiradas, comunicados e alertas podem ser feitos.
+   <img>  </img>
+ </ul>   
   
-  <img>![completo](https://user-images.githubusercontent.com/113267971/232251698-823a690e-d059-4ef1-903f-314f755462ed.png)</img>
- 
+  
   
   <h2>Fontes</h2>
   
