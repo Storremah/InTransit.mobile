@@ -55,10 +55,9 @@
   <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
     <img>  </img>
     
-    <li><h3> Tela principal </h3></li>
+  <h3> Tela principal </h3>
   <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
     
-    <img>  </img>
     
   <li><h3> Localização em tempo real </h3></li>
   <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos.</p>
