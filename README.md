@@ -94,8 +94,8 @@
   <img>![cores](https://user-images.githubusercontent.com/113267971/232250497-fa396608-3f39-45b8-8d77-e8a9085ebb79.png)</img>
     
    <h2>Diagrama-UML</h2>
-
-<img>![uml projeto](https://user-images.githubusercontent.com/111474763/231048215-711a17e4-b784-4736-bc1c-8f23ce63a091.png)</img>
+   
+<img>![Imagem do WhatsApp de 2023-04-16 à(s) 20 40 14](https://user-images.githubusercontent.com/111431438/232349820-b2e22a98-7f69-4e65-b194-457e829bb4ac.jpg)</img>
 
 <h1>JSON</h1>
 
