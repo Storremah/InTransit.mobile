@@ -42,10 +42,12 @@
 
  
   <h1>Projeto Figma</h1>
+  
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
-<h2> Tela inicial </h2>
-    <img>![tela1](https://user-images.githubusercontent.com/113267971/232327879-11398da8-91a7-48b1-849b-8aa3a5117a91.PNG)</img>
+<p><h2> Tela inicial </h2></p>
+   <img> ![tela1](https://user-images.githubusercontent.com/113267971/232332272-9b693107-c969-4871-bc3a-092ad3b7eb66.PNG) </img>
+
     
     
 <h2> Realizar cadastro do aluno</h2>
@@ -56,9 +58,10 @@
   <h2> Login no aplicativo </h2>
   <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
   
-    <img> ![tela4](https://user-images.githubusercontent.com/113267971/232327918-bb4a557d-cabe-4d20-abe0-6bfa858556f5.PNG)</img>
+  <img>![tela4](https://user-images.githubusercontent.com/113267971/232332234-ad54e71b-4939-4c9b-a6f4-bac0731b284f.PNG)</img>
+
     
-  <li><h3> Tela principal </h3></li>
+ <h3> Tela principal </h3>
   <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
    
    <img>![tela5](https://user-images.githubusercontent.com/113267971/232327931-a987bb42-a26e-4fe6-a82c-048e0fca852c.PNG) </img>
