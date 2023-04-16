@@ -40,11 +40,14 @@
 <h2>Relação de Caso de Uso</h2>
 <h3>Aluno/Usuário</h3>
   <li><h4> Realizar cadastro do aluno</h4></li>
-  <p> Na tela de cadastro, o aluno que faz parte de um instituição de ensino se cadastra nesse aplicativo, onde ele pode ver os motoristas que fazem rotas na sua localidade para leva-lo ate a instituição.</p>
+  <p> Na tela de cadastro, o estudante que faz parte de um instituição de ensino realiza o seu cadastro no aplicativo, desta forma ele estará vinculado ao motoristas que faz  a sua rota e o levará ate a instituição, bem como o trará de volta para casa.</p>
   <li><h4> Realizar login do aluno </h4></li>
-  <p> Na tela de login o aluno ira efetuar seu login atraves de user e senha(gerada pela instituição), para acessar o corpo do aplicativo, e usufruir do mesmo.</p>
-  <li><h4> Identificar localização do aluno</h4></li>
-  <p> Na tela de localidade, ira mostrar a localização exata do aluno por meio do seu endereço. E nisso o motorista com a rota nessa área irá busca-lo, sem atrapalhar sua rota.</p>
+  <p> Na tela de login o estudante ira efetuar o seu login, para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
+  <li><h4> Localização em tempo real </h4></li>
+  <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos.</p>
+  <li><h4> Histórico de viagens </h4></li>
+  
+  <li><h4> Chat da rota </h4></li>
     
   <h1>Projeto Figma</h1>
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
@@ -69,114 +72,7 @@
 
 <h1>JSON</h1>
 
-<h3>Funcionalidade: **Login**</h3>
-Requisição:
-Método: POST
-Endpoint:_ /login_
-
-**Parâmetros:**
-
-username: string contendo o nome de usuário ou matrícula
-password: string contendo a senha do usuário
-![Screenshot_1](https://user-images.githubusercontent.com/111620570/232322977-1c56e994-bd13-4d32-bfca-13b404d94728.png)
-
-**Resposta:**
-Status Code: 200 OK
-![image](https://user-images.githubusercontent.com/111620570/232323026-22423767-bd34-4754-bbd5-2a81155d1c16.png)
-
-Status Code: 401 Unauthorized
-![image](https://user-images.githubusercontent.com/111620570/232323065-78dbb1b5-d509-4354-b7a3-00b8958f6042.png)
-
-<h3>Funcionalidade: **Localização em Tempo Real**</h3>
-Requisição:
-Método: GET
-Endpoint: _/localizacao_
-
-**Parâmetros:**
-
-token: string contendo o token de autenticação do usuário
-Resposta:
-Status Code: 200 OK
-![image](https://user-images.githubusercontent.com/111620570/232323140-80cbc029-4fab-4240-8bad-932a3c3f7409.png)
-
-<h3>Funcionalidade: **Check-in Embarque**</h3>
-Requisição:
-Método: POST
-Endpoint: _/embarque_
-
-**Parâmetros:**
-
-token: string contendo o token de autenticação do usuário
-Resposta:
-Status Code: 200 OK
-![image](https://user-images.githubusercontent.com/111620570/232323323-21482248-8f1b-4e57-88ec-ab63e5f4e542.png)
-
-<h3>Funcionalidade: **Check-in Desembarque**</h3>
-Requisição:
-Método: POST
-Endpoint: _/desembarque_
-
-**Parâmetros:**
-
-token: string contendo o token de autenticação do usuário
-Resposta:
-Status Code: 200 OK
-![image](https://user-images.githubusercontent.com/111620570/232323450-c7fc3f51-9d61-4bc6-98cc-d18931908294.png)
-
-<h3>Funcionalidade: **Histórico de Viagens**</h3>
-Requisição:
-Método: GET
-Endpoint: _/historico_
-
-**Parâmetros:**
-
-token: string contendo o token de autenticação do usuário
-Resposta:
-Status Code: 200 OK
-![image](https://user-images.githubusercontent.com/111620570/232323577-34a13f18-eb83-4a93-9b41-f0c0005f6394.png)
-
-<h3>Funcionalidade: **Chat da Rota**</h3>
-Requisição:
-Método: GET
-Endpoint: _/chat_
-
-**Parâmetros:**
-
-token: string contendo o token de autenticação do usuário
-Resposta:
-Status Code: 200 OK
-![image](https://user-images.githubusercontent.com/111620570/232323617-23cc9cf1-b491-4e51-8458-09bc2b95e714.png)
-
-<h3>Funcionalidade: **Cadastro**</h3>
-Requisição:
-Método: POST
-Endpoint: _/cadastro_
-
-**Parâmetros:**
-
-nome: string contendo o nome completo do usuário
-matricula: string contendo a matrícula do usuário
-rg: string contendo o RG do usuário
-telefone: string contendo o número de telefone do usuário
-cep: string contendo o CEP do usuário
-logradouro: string contendo o endereço do usuário
-complemento: string contendo o complemento do endereço do usuário
-instituicao: string contendo o nome da instituição de ensino do usuário
-codigo_rota:string contendo o código da rota do usuário
-senha: string contendo a senha do usuário
-confirmar_senha: string contendo a confirmação da senha do usuário
-![image](https://user-images.githubusercontent.com/111620570/232323718-439b718d-bdd9-47c3-9b75-5dc7c8e0b0ef.png)
-
-Respostas:
-
-200 OK: retorno bem-sucedido, retorna uma mensagem de sucesso
-![image](https://user-images.githubusercontent.com/111620570/232323764-b9630c04-a269-4375-9773-ef7a38461adc.png)
-
-400 Bad Request: erro nos parâmetros enviados
-![image](https://user-images.githubusercontent.com/111620570/232323819-df2d918f-c1be-463b-b854-840b11d08824.png)
-
-401 Unauthorized: usuário não autorizado
-![image](https://user-images.githubusercontent.com/111620570/232323835-cbaa104b-072d-4af8-bfc9-901acca64383.png)
+<img>![Print JSON](https://user-images.githubusercontent.com/113267971/231304507-d7d0509c-ac00-47f7-9dfa-8163fccb01c7.png)</img>
 
 
 </body>
