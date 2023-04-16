@@ -96,7 +96,9 @@
 
 <h2>Funcionalidade: Login</h2>
 Requisição:
+
 Método: ```POST```
+
 Endpoint: _/login_
 
 **Parâmetros**
