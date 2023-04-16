@@ -43,7 +43,7 @@
  
   <h1>Projeto Figma</h1>
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
-<lu> 
+<ul> 
 <li><h3> Tela inicial </h3></li>
     <img>  </img>
     
