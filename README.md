@@ -45,8 +45,7 @@
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
 <h2> Tela inicial </h2>
-    
-    <img> ![tela1](https://user-images.githubusercontent.com/113267971/232327552-5dc4c592-c6b4-4305-9484-e450d452d3d7.PNG)</img>
+    <img>![tela1](https://user-images.githubusercontent.com/113267971/232327879-11398da8-91a7-48b1-849b-8aa3a5117a91.PNG)</img>
     
     
 <h2> Realizar cadastro do aluno</h2>
@@ -57,29 +56,27 @@
   <h2> Login no aplicativo </h2>
   <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
   
-    <img> ![tela4](https://user-images.githubusercontent.com/113267971/232327194-5c43b3f6-a5d3-42b7-9c7c-07f737b53c53.PNG) </img>
+    <img> ![tela4](https://user-images.githubusercontent.com/113267971/232327918-bb4a557d-cabe-4d20-abe0-6bfa858556f5.PNG)</img>
     
   <li><h3> Tela principal </h3></li>
   <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
    
-   <img> ![tela4](https://user-images.githubusercontent.com/113267971/232327194-5c43b3f6-a5d3-42b7-9c7c-07f737b53c53.PNG)</img>
+   <img>![tela5](https://user-images.githubusercontent.com/113267971/232327931-a987bb42-a26e-4fe6-a82c-048e0fca852c.PNG) </img>
     
   <h2> Localização em tempo real </h2>
   <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista einstituição, uma vez que, estes dados são enviado para ambos.</p>
     
-    <img>![tela6](https://user-images.githubusercontent.com/113267971/232327307-b87a8f6a-0161-4daf-b0fc-a3eb5e71b2ca.PNG) </img>
+    <img>![tela6](https://user-images.githubusercontent.com/113267971/232327957-d0a9931c-af49-4a64-86ec-5329da977d90.PNG)</img>
     
   <h2> Histórico de viagens </h2>
   Este serviço cataloga todas as viagens da rota feita pelo estudante. Ele conta com informações da data e horário em que embarcaram a caminho da instituição ou para a sua casa.
   
-    <img> ![tela7](https://user-images.githubusercontent.com/113267971/232327287-c9f5ff21-9ffd-4749-bfb3-ba05eae9f4b8.PNG </img>
+    <img>![tela7](https://user-images.githubusercontent.com/113267971/232327982-fea23141-d6a5-4a36-8a67-c8491557ec43.PNG)</img>
     
   <h2> Chat da rota </h2>
  Este serviço tem o objetivo de permitir a comunicação entre membros da mesma rota, desta maneira, dúvidas podem ser tiradas, comunicados e alertas podem ser feitos.
    
    <img> ![tela8](https://user-images.githubusercontent.com/113267971/232327321-1f6e32b1-51fd-43b4-aa10-39237c8b2ded.PNG) </img>
- </ul>   
-  
   
   
   <h2>Fontes</h2>
