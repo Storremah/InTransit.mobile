@@ -37,8 +37,10 @@
             <li>Draw.io</li>
             <li>Android Studio</li>
         </ul>
+        
 <h2>Relação de Caso de Uso</h2>
 <h3>Aluno/Usuário</h3>
+<ul>
   <li><h4> Realizar cadastro do aluno</h4></li>
   <p> Na tela de cadastro, o estudante que faz parte de um instituição de ensino realiza o seu cadastro no aplicativo, desta forma ele estará vinculado ao motoristas que faz  a sua rota e o levará ate a instituição, bem como o trará de volta para casa.</p>
   <li><h4> Realizar login do aluno </h4></li>
@@ -49,6 +51,7 @@
   
   <li><h4> Chat da rota </h4></li>
     
+ </ul>   
   <h1>Projeto Figma</h1>
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
