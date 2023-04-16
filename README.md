@@ -112,6 +112,47 @@ password: string contendo a senha do usuário
 
 ```status code:```  200 ```OK```
 
+![image](https://user-images.githubusercontent.com/111620570/232329254-5e857b2a-aef8-4318-9908-953d7f0b4147.png)
+
+```status code:``` 401 ```Unauthorized```
+
+![image](https://user-images.githubusercontent.com/111620570/232329371-cce1966a-cde0-444f-a047-4730305f3721.png)
+
+<h2>Funcionalidade: Localização em tempo real</h2>
+Requisição:
+
+Método: ```GET```
+
+Endpoint: _/localizacao_
+
+**Parâmetros**
+
+token: string contendo o token de autenticação do usuário
+
+**Resposta**
+
+```status code:``` 200 ```OK```
+
+![image](https://user-images.githubusercontent.com/111620570/232329583-313d9ccc-2e13-462c-85ab-d3bebd58f4f3.png)
+
+<h2>Funcionalidade: Check-in Embarque</h2>
+Requisição:
+
+Método: ```POST```
+
+Endpoint: _/embarque_
+
+**Parâmetros**
+
+token: string contendo o token de autenticação do usuário
+
+**Resposta**
+
+```status code``` 200 ```OK```
+
+![image](https://user-images.githubusercontent.com/111620570/232329734-6fc42a67-7f94-457e-b800-f8144c20e019.png)
+
+<h2>Funcionalidade: Check-in Desembarque</h2>
 
 </body>
 </html>
