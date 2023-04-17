@@ -63,7 +63,7 @@
 
     
  <h3> Tela principal </h3>
-  <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
+  <p> Esta tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
    
    <img>![tela5](https://user-images.githubusercontent.com/113267971/232327931-a987bb42-a26e-4fe6-a82c-048e0fca852c.PNG) </img>
     
