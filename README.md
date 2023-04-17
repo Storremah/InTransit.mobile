@@ -38,10 +38,10 @@
             <li>Android Studio</li>
         </ul>
         
-<h2>Relação de Caso de Uso</h2>
+
 
  
-  <h1>Projeto Figma</h1>
+  <h1>Relação de Caso de Uso</h1>
   
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
