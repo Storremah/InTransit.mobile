@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".chat">
+
+
+    <TextView
+        android:id="@+id/chat_rota"
+        android:layout_width="match_parent"
+        android:layout_height="16dp"
+        android:layout_weight="1"
+        android:alpha="0.5"
+        android:background="#D637D4"
+        android:text="Chat da Rota"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:id="@+id/chat"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_weight="1"
+        android:alpha="0.5"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:alpha="0.4"
+            android:scaleType="centerCrop"
+            android:src="@drawable/logo_redonda_" />
+
+    </ScrollView>
+
+    <EditText
+        android:id="@+id/menssagem"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:backgroundTint="@color/white"
+        android:hint="Escreva aqui"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+
+    <LinearLayout
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/voltar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            android:background="#D637D4"
+            android:text="Voltar"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/enviar"
+            android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginLeft="3dp"
+            android:background="#D637D4"
+            android:text="Enviar"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>
