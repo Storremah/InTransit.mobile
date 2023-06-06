@@ -39,18 +39,17 @@ public class Login extends AppCompatActivity {
         botaoLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Lógica para tratar o clique no botão de login
+                
                 String usuario = editUsuario.getText().toString();
                 String senha = editSenha.getText().toString();
-                // ... realizar a autenticação ou qualquer outra lógica desejada
+                
             }
         });
 
         botaoVoltar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Lógica para tratar o clique no botão de voltar
-                // Por exemplo, voltar para a tela anterior ou encerrar a atividade
+               
             }
         });
     }
