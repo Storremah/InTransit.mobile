@@ -23,13 +23,11 @@ public class Hist_viagem extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hist_viagem);
-
-        // Obtenha as referências das ListViews do layout
+        
         historico1 = findViewById(R.id.historico1);
         historico2 = findViewById(R.id.historico2);
         historico3 = findViewById(R.id.historico3);
-
-        // Crie um ArrayList com os dados para preencher as ListViews
+        
         ArrayList<String> data1 = new ArrayList<>();
         data1.add("15/08/23");
         data1.add("08:35");
@@ -43,13 +41,10 @@ public class Hist_viagem extends AppCompatActivity {
         data3.add("16/08/23");
         data3.add("13:05");
 
-
-        // Crie um ArrayAdapter para preencher cada ListView com os dados
         ArrayAdapter<String> adapter1 = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, data1);
         ArrayAdapter<String> adapter2 = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, data2);
         ArrayAdapter<String> adapter3 = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, data3);
-
-        // Defina o adapter para cada ListView
+        
         historico1.setAdapter(adapter1);
         historico2.setAdapter(adapter2);
         historico3.setAdapter(adapter3);
@@ -60,14 +55,12 @@ public class Hist_viagem extends AppCompatActivity {
                 super.onCreate(savedInstanceState),
                 setContentView(R.layout.hist_viagem);
 
-         // Obtenha a referência do ImageButton do layout
          imageButton = findViewById(R.id.imageButton2);
 
-         // Defina um OnClickListener para o ImageButton
          imageButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Implemente o comportamento desejado quando o ImageButton for clicado
+               
                 Toast.makeText(Hist_viagem.this, "ImageButton clicado", Toast.LENGTH_SHORT).show();
             }
          });
