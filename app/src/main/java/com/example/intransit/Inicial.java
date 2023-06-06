@@ -19,16 +19,14 @@ public class Inicial extends AppCompatActivity {
         botaoLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Lógica para tratar o clique no botão de login
-                // Por exemplo, abrir uma nova atividade de login
+              
             }
         });
 
         botaoAcesso.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Lógica para tratar o clique no botão de primeiro acesso
-                // Por exemplo, abrir uma nova atividade de primeiro acesso
+            
             }
         });
     }
